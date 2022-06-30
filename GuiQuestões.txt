@@ -1,0 +1,84 @@
+1. Para que serve o comando find view by id ?
+e um motodo que permite localizar um widget (como um botao, por exemplo) atraves de um id
+
+2. Para que serve o view binding = true?
+Para ativar a vinculacao de visualizacoes em um modulo
+
+3. O que e uma view?
+e um retangulo na tela que mostra algum conteudo
+
+4. O que e uma activity?
+Basicamente e uma tela do Android, onde o sistema android trabalha pensando nas atividades
+
+5. Como e o nome de uma classe que fornece dados para a aplica��o
+public class
+
+6. Com qual estrutura criamos essa Fonte de Dados?
+public class x
+
+    {
+
+        public string x;
+
+        public int x;
+
+    }
+
+7. Para organizar o codigo, existe alguma forma de separa��o?
+Nao entendi a pergunta. Deixa-lo alinhado ?
+
+8. O que e um pacote?
+O diretorio (pasta) no qual fica o codigo fonte
+
+9. Quando editamos o arquivo graddle config?
+
+
+10. Como podemos executar uma aplicacao Android?
+Indo no menu la encima selecionando o programa e clicando no icone de "play"
+
+11. Qual a funcao de um emulador?
+Serve para simular um celular dentro do computador
+
+12. Qual a funcao do EXTRA?
+
+
+13. O que e uma intent?
+Permite realizar requisicoes que podem ser atendidas tanto pela sua pr�pria aplica��o ou por aplica��es de terceiros
+
+14. Qual a diferen�a entre uma intent implicita e explicita?
+Os intents expl�citos especificam qual aplicativo atender� ao intent, j� os impl�citos n�o nomeiam nenhum componente espec�fico, o que permite que um componente de outro aplicativo a processe
+
+15. O que e um intent filter?
+Um filtro de intents declara os recursos do componente pai
+
+16. Para que serve o arquivo manifest .xml?
+Ele permite descrever a funcionalidade e os requisitos do aplicativo para o Android
+
+17. Como podemos importar um componente do MaterialDesign?
+
+
+18. Qual a funcionalidade do arquivo strings.xml?
+Para ajudar a manter e traduzir outros idiomas
+
+19. Onde se localizam os arquivos de layout do Android e qual sua extens�o?
+Na pasta "res" fica os arquivos layout. Main.axml 
+
+20. O que e o recycler view?
+RecyclerView � o ViewGroup que cont�m as visualiza��es correspondentes aos seus dados
+
+21. O que e o constraint Layout?
+Permite que voc� crie layouts grandes e complexos
+
+22. O que � o SDK android?
+
+
+23. O que � API Level?
+S�o as vers�es do Android
+
+24. Como adicionamos imagens em uma aplica��o Android?
+Bot�o direito do mouse em res, novo Image Asset.
+Tipo de �cone, vai em Barra de A��o e �cones de Tabula��o.
+No Tipo de recurso, apertei em Imagem.
+escolho o caminho e dou um nome para a imagem.
+
+25. Qual a fun��o de um Adapter? Em que tipo de aplica��o precisamos construir adapters?
